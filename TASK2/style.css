@@ -8,7 +8,7 @@
 {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg,#153677,#4e085f);
+    background-image: linear-gradient(to right bottom, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
     padding: 10px;
 }
 .todo-app
@@ -53,7 +53,7 @@ button{
     border: none;
     outline: none;
     padding: 16px 50px;
-    background: #ff5945;
+    background: #2f81d8;
     color: #fff;
     font-size: 16px;
     cursor: pointer;
