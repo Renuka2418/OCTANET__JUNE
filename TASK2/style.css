@@ -8,7 +8,7 @@
 {
     width: 100%;
     min-height: 100vh;
-    background-image: linear-gradient(to right bottom, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
     padding: 10px;
 }
 .todo-app
@@ -22,7 +22,7 @@
 }
 .todo-app h2 
 {
-    color: #002765;
+    color: #1e53a7;
     display: flex;
     align-items: center;
     margin-bottom: 20px;
@@ -53,7 +53,7 @@ button{
     border: none;
     outline: none;
     padding: 16px 50px;
-    background: #2f81d8;
+    background: #1a1291;
     color: #fff;
     font-size: 16px;
     cursor: pointer;
